@@ -4,7 +4,7 @@ In this project the main goal is to index a collection of documents and improve 
 
 Our aim is to obtain search engine configurations that have a ***Mean-Reciprocal-Rank*** value MRR(Q) ≥ **0.32**, where Q is the set of the provided queries. For each configuration the program will dislay a ***R-Precision*** distribution table containing the following information relative to the R-precision of each search engine configuration: *mean*, *min*, *1st quartile*, *median*, *3rd quartile*, *max*.
 
-In order to visualize the effectiveness of the search engine, the nDCG@k (*Discounted Cumulative Gain*) plot is displayed.
+In order to visualize the effectiveness of the search engine, the ***nDCG@k*** (*Discounted Cumulative Gain*) plot is displayed.
 
 ![alt text](https://www.microsoft.com/en-us/research/uploads/prod/2018/06/InformationRetrieval_Carousel_06_2018_480x280-800x550.jpg)
 
